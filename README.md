@@ -1,6 +1,7 @@
 <div align="center">
 
-# ✨ Prompt Builder Website
+# Prompt Builder Website
+# ✨🧠✨
 
 ### Build Better AI Prompts with Advanced Customization
 
