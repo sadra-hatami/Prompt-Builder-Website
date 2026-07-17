@@ -1,4 +1,4 @@
-# Prompt_Builder_Website
+# Prompt-Builder-Website
 
 ***
 
@@ -17,6 +17,6 @@ Specialized Prompt Builder for AI
 
 ***
 
-🌐 وبسایت برنامه: https://sadra-hatami.github.io/Prompt_Builder_Website/
+🌐 وبسایت برنامه: https://sadra-hatami.github.io/Prompt-Builder-Website/
 
 📧 ایمیل سازنده برنامه: sadra.hatami.1732@gmail.com
