@@ -20,6 +20,7 @@ A powerful browser-based prompt builder that helps users create professional AI 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
 ![Cross Platform](https://img.shields.io/badge/Cross--Platform-Desktop%20%7C%20Laptop%20%7C%20Tablet%20%7C%20Mobile-6f42c1?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?style=for-the-badge\&logo=github)
 ![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge\&logo=github)
 
 <br>
